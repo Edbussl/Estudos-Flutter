@@ -1,0 +1,10 @@
+flutter:
+  assets:
+    - assets/images/space_background.jpg
+    - assets/images/luke.png
+    - assets/images/millennium_falcon.png
+    - assets/images/star_wars_logo.png
+  fonts:
+    - family: StarJedi
+     fonts:
+      - asset: assets/fonts/StarJedi.ttf
